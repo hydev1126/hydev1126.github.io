@@ -1,10 +1,9 @@
 ---
+layout: post
 title: IPv6知识梳理
-published: 2025-03-14
-date: 2025-03-14T15:34:00
-tags:
-  - IPv6
-  - 网络数通
+date: 2025-03-14 15:34:00 +8000
+categories: CATEGORY-1 CATEGORY-2
+
 ---
 # IPv6介绍
 
